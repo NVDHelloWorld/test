@@ -20,7 +20,6 @@ def main():
         
         if tasks[i]["completed"]:
             st.write(f"Task '{task}' has been Completed.")
-
 if __name__ == "__main__":
     main()
 
